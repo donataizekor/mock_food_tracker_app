@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Cherry Up!</string>
+    <string name="cherryup">CHERRY UP!</string>
+
+    <!--    sign up page-->
+    <string name="nameHint">Enter name</string>
+    <string name="emailHint">Enter email</string>
+    <string name="passwordHint">Enter password</string>
+    <string name="signup">SIGN UP</string>
+    <string name="or">or</string>
+    <string name="fb_icon">fb_icon</string>
+    <string name="gg_icon">gg_icon</string>
+    <string name="tw_icon">tw_icon</string>
+    <string name="already"><u>Already have an account? Login</u></string>
+    <string name="signupTitle">SIGN UP</string>
+    <string name="requirement">*  Password has to be 6 characters</string>
+
+
+    <!--    log in-->
+    <string name="notyet"><u>You don\'t have an account? Sign up</u></string>
+    <string name="forgotPassword"><u>Forgot password?</u></string>
+    <string name="login">LOGIN</string>
+    <string name="loginTitle">LOGIN</string>
+
+    <!--    welcome page-->
+    <string name="fridge">FRIDGE</string>
+    <string name="freezer">FREEZER</string>
+    <string name="pantry">PANTRY</string>
+    <string name="counter">COUNTER</string>
+    <string name="plus">+</string>
+    <string name="welcome">Welcome, </string>
+    <string name="welcome2">start keeping track of what\'s in your kitchen</string>
+    <string name="welcome3">by adding items to your lists</string>
+
+    <!--    list layout page-->
+    <string name="logo">logo</string>
+    <string name="logout">LOGOUT</string>
+
+    <!--    item card layout-->
+    <string name="quantity">Quantity: n/a</string>
+    <string name="hereAre">STOCK</string>
+    <string name="noExpiring">No expiring date</string>
+    <string name="noQuantity">No quantity</string>
+    <string name="addTo">Add Item</string>
+    <string name="expiringDate">Expiring date</string>
+    <string name="delete">DELETE</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="editTo">Edit item</string>
+    <string name="update">UPDATE</string>
+    <string name="itemName">Item Name</string>
+    <string name="quantity2">Quantity</string>
+    <string name="profile">profile</string>
+    <string name="registerTitle">SIGN UP</string>
+    <string name="subtitle">To keep track of what\'s in your kitchen</string>
+    <string name="nameLabel">Name</string>
+    <string name="emailLabel">Email</string>
+    <string name="passwordLabel">Password</string>
+    <string name="register">SIGNUP</string>
+
+<!--welcome page puns-->
+    <string name="pun1">Does anybody know how to charge their milk?</string>
+    <string name="punn1">Mine is stuck at 1%</string>
+
+    <string name="pun2">What do you call berries playing the guitar?</string>
+    <string name="punn2">A jam session</string>
+
+    <string name="pun3">How does Reese eat her ice cream?</string>
+    <string name="punn3">Witherspoon</string>
+
+    <string name="pun4">What do you call a windy asparagus?</string>
+    <string name="punn4">Asparagust</string>
+
+<!--    add activity-->
+    <string name="location">Location</string>
+    <string name="upload">UPLOAD</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
